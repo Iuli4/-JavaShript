@@ -60,14 +60,14 @@
 //     });
     
 // }
-function name(){
-    console.log(array)
-    }
-    function name1 (params,inde){
-        let nul= params + inde
-        console.log(nul);
-    }
-    name1(array)
-    name1("saliut")
-    name1(10,10)
+// function name(){
+//     console.log(array)
+//     }
+//     function name1 (params,inde){
+//         let nul= params + inde
+//         console.log(nul);
+//     }
+//     name1(array)
+//     name1("saliut")
+//     name1(10,10)
     
